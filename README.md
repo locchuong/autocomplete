@@ -1,6 +1,6 @@
 # autocomplete
 ## Description
-The main focus of this repo is to demonstrate the autocomplete function used search engines, spell-checking, text-messengers, etc.
+The main focus of this repo is to demonstrate the autocomplete function used search engines, spell-checking, text-messengers, etc. In addition, this repo explores a bloom filter that provides memory efficient check of whether an item has been inserted before through the use of hashing algorithms (FNV1AHash, CRCHash, and SBDMHash).
 
 ## Data Structures
 ### Trie (TST)
