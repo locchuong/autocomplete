@@ -28,7 +28,6 @@ using namespace std;
  *              argv - Pointer to the actual arguments passed in by user
  */
 int main(int argc, char** argv) {
-
     /** Check for correct number of arguments */
     if( argc != MAX_ARG) {
         cout << "This program needs exactly one argument!" << endl;
